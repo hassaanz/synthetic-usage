@@ -4,6 +4,8 @@ A real-time dashboard for monitoring your [Synthetic](https://synthetic.new) API
 
 ![React](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-8-purple) ![License](https://img.shields.io/badge/license-MIT-green)
 
+**Live:** [synthetic.ailabapp.com](https://synthetic.ailabapp.com)
+
 ![Dashboard screenshot](screens/dashboard.png)
 
 ## Features
